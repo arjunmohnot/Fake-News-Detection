@@ -30,7 +30,7 @@ mock==3.0.5
 numpy==1.17.4
 pandas==0.25.3
 plotly==4.3.0
-protobuf==3.11.1
+protobuf==3.18.3
 python-dateutil==2.8.1
 pytz==2019.3
 PyYAML==5.2
